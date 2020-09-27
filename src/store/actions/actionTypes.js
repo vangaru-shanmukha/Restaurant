@@ -1,0 +1,15 @@
+export const SEARCH_TABLE = "SEARCH_TABLE";
+export const SEARCH_MENU = "SEARCH_MENU";
+export const ADD_ITEM = "ADD_ITEM";
+export const ADD_MENU_ITEM = "ADD_MENU_ITEM";
+export const ADD_TABLE = "ADD_TABLE";
+export const SHOW_MODAL = "SHOW_MODAL";
+export const SHOW_TABLE_MODAL = "SHOW_TABLE_MODAL";
+export const SHOW_MENU_MODAL = "SHOW_MENU_MODAL";
+export const SHOW_EDIT_MENU_MODAL = "SHOW_EDIT_MENU_MODAL";
+export const EDIT_ITEM = "EDIT_ITEM";
+export const DELETE_ITEM = "DELETE_ITEM";
+export const SHOW_BILL = "SHOW_BILL";
+export const GENERATE_BILL = "GENERATE_BILL";
+export const FETCH_TABLES_SUCCESS = "FETCH_TABLES_SUCCESS";
+export const FETCH_ITEMS_SUCCESS = "FETCH_ITEMS_SUCCESS";

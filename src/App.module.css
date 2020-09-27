@@ -1,0 +1,18 @@
+.Header {
+    display: flex;
+    width: 100%;
+    position: fixed;
+    min-height: 20%;
+    z-index: 1;
+    background-color: white;
+    margin: 5px 5px;
+}
+
+.Body {
+    display: flex;
+    width: 100%;
+    position: relative;
+    margin-left: 5px;
+    z-index: -1;
+}
+
